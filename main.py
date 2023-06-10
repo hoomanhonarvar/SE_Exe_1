@@ -8,4 +8,4 @@ def print_hi():
     
 print_Hello()
 
-print_hi
+print_hi()
