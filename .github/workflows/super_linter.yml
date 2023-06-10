@@ -6,7 +6,7 @@ on: push
 # Set the Job #
 ###############
 jobs:
-  build:
+  super-lint:
     # Name the Job
     name: Lint Code Base
     # Set the agent to run on
